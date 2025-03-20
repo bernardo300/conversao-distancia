@@ -7,5 +7,3 @@ A imagem do contêiner foi publicada no DockerHub e pode ser acessada através d
 Rodar imagem docker:
 
 `docker container run -p 5000:5000 --name conversor-unidade bernardo300/desafio-docker:1.0.0`
-
-🔗[Link do repositorio no GitHub](https://github.com/bernardo300/conversao-distancia)
